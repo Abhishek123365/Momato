@@ -4,3 +4,4 @@ sections-
 navigation menu
 client section
 form section
+fully responsive using media queries
